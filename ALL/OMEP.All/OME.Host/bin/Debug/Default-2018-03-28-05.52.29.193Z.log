@@ -1,0 +1,96 @@
+[2018-03-28 05:52:29.492 GMT     1	INFO   	100404	Silo	127.0.0.1:2234]	Silo starting with GC settings: ServerGC=False GCLatencyMode=Interactive	
+[2018-03-28 05:52:29.798 GMT     1	WARNING	100405	Silo	127.0.0.1:2234]	Note: Silo not running with ServerGC turned on or with GCLatencyMode.Batch enabled - recommend checking app config : <configuration>-<runtime>-<gcServer enabled="true"> and <configuration>-<runtime>-<gcConcurrent enabled="false"/>	
+[2018-03-28 05:52:29.898 GMT     1	WARNING	100405	Silo	127.0.0.1:2234]	Note: ServerGC only kicks in on multi-core systems (settings enabling ServerGC have no effect on single-core machines).	
+[2018-03-28 05:52:29.900 GMT     1	INFO   	100403	Silo	127.0.0.1:2234]	-------------- Initializing Primary silo on host TY-04-IT-040151B MachineName TY-04-IT-040151 at 127.0.0.1:2234, gen 259912349 --------------	
+[2018-03-28 05:52:29.925 GMT     1	INFO   	100415	Silo	127.0.0.1:2234]	Starting silo Default with the following configuration= 
+Config File Name: G:\OMEP\ALL\OMEP.All\OME.Host\OrleanConfiguration4.xml
+Host: TY-04-IT-040151B
+Start time: 2018-03-28 05:52:29.902 GMT
+Primary node: 127.0.0.1:2234
+Platform version info:
+   Orleans version: 1.5.3.0 (Release).
+   .NET version: 4.0.30319.42000
+   OS version: Microsoft Windows NT 6.2.9200.0
+   App config file: G:\OMEP\ALL\OMEP.All\OME.Host\bin\Debug\OME.Host.exe.Config
+   GC Type=Client GCLatencyMode=Interactive
+Global configuration:
+   System Ids:
+      ServiceId: 00000000-0000-0000-0000-000000000000
+      DeploymentId: 
+   Subnet: 
+   Seed nodes: 127.0.0.1:2234
+   Messaging:
+       Response timeout: 00:00:30
+       Maximum resend count: 0
+       Resend On Timeout: False
+       Maximum Socket Age: 10675199.02:48:05.4775807
+       Drop Expired Messages: True
+       Silo Sender queues: 2
+       Gateway Sender queues: 2
+       Client Drop Timeout: 00:01:00
+       Buffer Pool Buffer Size: 4096
+       Buffer Pool Max Size: 10000
+       Buffer Pool Preallocation Size: 250
+       Maximum forward count: 2
+       Fallback serializer: 
+   Liveness:
+      LivenessEnabled: True
+      LivenessType: MembershipTableGrain
+      ProbeTimeout: 00:00:10
+      TableRefreshTimeout: 00:01:00
+      DeathVoteExpirationTimeout: 00:02:00
+      NumMissedProbesLimit: 3
+      NumProbedSilos: 3
+      NumVotesForDeathDeclaration: 2
+      UseLivenessGossip: True
+      ValidateInitialConnectivity: True
+      IAmAliveTablePublishTimeout: 00:05:00
+      NumMissedTableIAmAliveLimit: 2
+      MaxJoinAttemptTime: 00:05:00
+      ExpectedClusterSize: 20
+   MultiClusterNetwork: N/A
+   SystemStore:
+      SystemStore ConnectionString: null
+      Reminders ConnectionString: null
+   Application:
+      Defaults:
+         Deactivate if idle for: 02:00:00
+
+   PlacementStrategy: 
+         Default Placement Strategy: RandomPlacement
+         Deployment Load Publisher Refresh Time: 00:00:01
+         Activation CountBased Placement Choose Out Of: 2
+   Grain directory cache:
+      Maximum size: 1000000 grains
+      Initial TTL: 00:00:30
+      Maximum TTL: 00:04:00
+      TTL extension factor: 2.00
+      Directory Caching Strategy: Adaptive
+   Grain directory:
+      Lazy deregistration delay: 00:01:00
+      Client registration refresh: 00:05:00
+   Reminder Service:
+       ReminderServiceType: ReminderTableGrain
+   Consistent Ring:
+       Use Virtual Buckets Consistent Ring: True
+       Num Virtual Buckets Consistent Ring: 30
+   Providers:
+       StorageProviders:
+           Name=MemoryStore, Type=Orleans.Storage.MemoryStorage, Properties=[]
+           Name=Default, Type=Orleans.Storage.MemoryStorage, Properties=[]
+
+Silo configuration:
+   Silo Name: Default
+   Generation: 259912349
+   Host Name or IP Address: localhost
+   DNS Host Name: TY-04-IT-040151B
+   Port: 2234
+   Subnet: 
+   Preferred Address Family: InterNetwork
+   Proxy Gateway: 127.0.0.1:1234
+   IsPrimaryNode: True
+   Scheduler: 
+         Max Active Threads: 4
+         Processor Count: 2
+         Delay Warning Threshold: 00:00:10
+         Activa

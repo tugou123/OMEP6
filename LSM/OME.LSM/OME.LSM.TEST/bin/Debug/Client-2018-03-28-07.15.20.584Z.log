@@ -1,0 +1,191 @@
+[2018-03-28 07:15:36.029 GMT     1	INFO   	100000	AssemblyLoader.Client	]	Recursively searching for assemblies in G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug...	
+[2018-03-28 07:15:39.301 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\Microsoft.CodeAnalysis.CSharp.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:40.179 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\Microsoft.CodeAnalysis.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:40.191 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:40.204 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:40.207 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:40.216 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:40.231 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\Microsoft.Practices.Unity.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:40.233 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:40.280 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\Microsoft.Win32.Primitives.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:40.451 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\Newtonsoft.Json.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:40.615 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\OEM.LSM.Write.Contract.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:40.680 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\OME.Unity.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:40.682 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\Orleans.dll
+	* Assembly filename is excluded.	
+[2018-03-28 07:15:40.686 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\OrleansCodeGenerator.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:40.866 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\Quartz.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:41.180 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\Quartz.Unity.45.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:41.193 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\System.AppContext.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:41.212 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\System.Collections.Immutable.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:41.214 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\System.Console.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:41.220 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:41.224 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:41.229 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\System.Diagnostics.StackTrace.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:41.231 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\System.Globalization.Calendars.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:41.235 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\System.IO.Compression.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:41.236 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\System.IO.Compression.ZipFile.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:41.241 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\System.IO.FileSystem.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:41.243 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\System.IO.FileSystem.Primitives.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:41.257 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\System.Net.Http.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:41.260 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\System.Net.Sockets.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:41.315 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\System.Reflection.Metadata.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:41.430 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:41.458 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\System.Security.Cryptography.Algorithms.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:41.461 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\System.Security.Cryptography.Encoding.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:41.465 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\System.Security.Cryptography.Primitives.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:41.586 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:41.668 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\System.Text.Encoding.CodePages.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:41.676 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\System.Threading.Thread.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:41.700 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\System.ValueTuple.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:41.915 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\System.Xml.ReaderWriter.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:42.043 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\System.Xml.XmlDocument.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:42.494 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\System.Xml.XPath.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:43.007 GMT     1	INFO   	100000	AssemblyLoader.Client	]	User assembly ignored: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\System.Xml.XPath.XDocument.dll
+	* Assembly contains no types assignable from Orleans.Providers.IProvider.	
+[2018-03-28 07:15:43.080 GMT     1	INFO   	100000	AssemblyLoader.Client	]	Loading assembly G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\OrleansProviders.dll...	
+[2018-03-28 07:15:43.147 GMT     1	INFO   	100000	AssemblyLoader.Client	]	1 assemblies loaded.	
+[2018-03-28 07:15:43.294 GMT     1	INFO   	100313	OutsideRuntimeClient	]	---------- Initializing OutsideRuntimeClient on TY-04-IT-040151B at 192.168.2.151 Client Id = *cli/2ca8eca4 ----------	
+[2018-03-28 07:15:43.400 GMT     1	INFO   	100314	OutsideRuntimeClient	]	---------- Starting OutsideRuntimeClient with runtime Version='1.5.3.0 (Release).' in AppDomain=<AppDomain.Id=1, AppDomain.FriendlyName=OME.LSM.TEST.exe> Config= 
+ Platform version info:
+   Orleans version: 1.5.3.0 (Release).
+   .NET version: 4.0.30319.42000
+   OS version: Microsoft Windows NT 6.2.9200.0
+   App config file: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\OME.LSM.TEST.exe.Config
+   GC Type=Client GCLatencyMode=Interactive
+   Host: TY-04-IT-040151B
+   Processor Count: 2
+Client Configuration:
+   Config File Name: 
+   Start time: 2018-03-28 07:15:43.393 GMT
+   Gateway Provider: Config
+   Gateways[1]:
+      127.0.0.1:1234
+   Preferred Gateway Index: -1
+   GatewayListRefreshPeriod: 00:01:00
+   Preferred Address Family: InterNetwork
+   DNS Host Name: TY-04-IT-040151B
+   Client Name: Client
+   Tracing: 
+     Default Trace Level: Info
+     TraceLevelOverrides: None
+     Trace to Console: True
+     Trace File Name: G:\OMEP\LSM\OME.LSM\OME.LSM.TEST\bin\Debug\Client-2018-03-28-07.15.20.584Z.log
+     LargeMessageWarningThreshold: 85000
+     PropagateActivityId: False
+     BulkMessageLimit: 5
+   Statistics: 
+     MetricsTableWriteInterval: 00:00:30
+     PerfCounterWriteInterval: -00:00:00.0010000
+     LogWriteInterval: 00:05:00
+     WriteLogStatisticsToTable: True
+     StatisticsCollectionLevel: Info
+   Messaging:
+       Response timeout: 00:30:00
+       Maximum resend count: 0
+       Resend On Timeout: False
+       Maximum Socket Age: 10675199.02:48:05.4775807
+       Drop Expired Messages: True
+       Client Sender Buckets: 8192
+       Buffer Pool Buffer Size: 4096
+       Buffer Pool Max Size: 10000
+       Buffer Pool Preallocation Size: 250
+       Fallback serializer: 
+   .NET: 
+       .NET thread pool sizes - Min: Worker Threads=2 Completion Port Threads=2
+       .NET thread pool sizes - Max: Worker Threads=2047 Completion Port Threads=1000
+   Providers:
+       No providers configured.
+	
+[2018-03-28 07:15:43.736 GMT     4	INFO   	101309	Messaging.GatewayManager	]	Found 1 knownGateways from Gateway listProvider [gwy.tcp://127.0.0.1:1234/0]	
+[2018-03-28 07:15:45.273 GMT     4	WARNING	100178	Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://127.0.0.1:1234/0	192.168.2.151:0]	Unable to connect to gateway at address gwy.tcp://127.0.0.1:1234/0 on trial 0 (Exception: Could not connect to 127.0.0.1:1234: ConnectionRefused)	
+[2018-03-28 07:15:45.996 GMT     4	WARNING	100913	Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://127.0.0.1:1234/0	192.168.2.151:0]	Marking gateway at address gwy.tcp://127.0.0.1:1234/0 as Disconnected	
+[2018-03-28 07:15:46.741 GMT     6	INFO   	101309	Messaging.GatewayManager	192.168.2.151:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:1234/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:1234/0]. Previous refresh time was = 2018/3/28 7:15:43	
+[2018-03-28 07:15:47.929 GMT     4	WARNING	100178	Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://127.0.0.1:1234/0	192.168.2.151:0]	Unable to connect to gateway at address gwy.tcp://127.0.0.1:1234/0 on trial 1 (Exception: Could not connect to 127.0.0.1:1234: ConnectionRefused)	
+[2018-03-28 07:15:47.933 GMT     4	WARNING	100913	Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://127.0.0.1:1234/0	192.168.2.151:0]	Marking gateway at address gwy.tcp://127.0.0.1:1234/0 as Disconnected	
+[2018-03-28 07:15:47.941 GMT     6	INFO   	101309	Messaging.GatewayManager	192.168.2.151:0]	Refreshed the live Gateway list. Found 1 gateways from Gateway listProvider: [gwy.tcp://127.0.0.1:1234/0]. Picked only known live out of them. Now has 1 live Gateways: [gwy.tcp://127.0.0.1:1234/0]. Previous refresh time was = 2018/3/28 7:15:46	
+[2018-03-28 07:15:47.947 GMT     4	WARNING	100912	Messaging.GatewayConnection/GatewayClientSender_gwy.tcp://127.0.0.1:1234/0	192.168.2.151:0]	Marking gateway at address gwy.tcp://127.0.0.1:1234/0 as Dead in my client local gateway list.	
+[2018-03-28 07:15:47.995 GMT     4	WARNING	100157	CallbackData	192.168.2.151:0]	The target silo became unavailable for message: Request *cli/2ca8eca4@82924ab7->S127.0.0.1:1234:0TypeManagerId@S00000011 #2: global::Orleans.Runtime.IClusterTypeManager:GetClusterTypeCodeMap(). Target History is: <S127.0.0.1:1234:0:TypeManagerId:@S00000011>. See https://aka.ms/orleans-troubleshooting for troubleshooting help. About to break its promise.	
+[2018-03-28 07:15:48.032 GMT     5	WARNING	100011	OutsideRuntimeClient	192.168.2.151:0]	No callback for response message: Unrecoverable Rejection (info: Target silo S127.0.0.1:1234:0 is unavailable) Response S127.0.0.1:1234:0TypeManagerId@S00000011->*cli/2ca8eca4@82924ab7 #2: global::Orleans.Runtime.IClusterTypeManager:GetClusterTypeCodeMap()	
+[2018-03-28 07:15:48.217 GMT     1	INFO   	100000	OutsideRuntimeClient	192.168.2.151:0]	OutsideRuntimeClient.Reset(): client Id *cli/2ca8eca4	
+[2018-03-28 07:15:48.327 GMT     1	INFO   	100704	ClientLogStatistics	192.168.2.151:0]	Statistics: ^^^
+Client.ConnectedGatewayCount=0
+Messaging.Expired.AtDispatch.Current=0
+Messaging.Expired.AtInvoke.Current=0
+Messaging.Expired.AtReceive.Current=0
+Messaging.Expired.AtRespond.Current=0
+Messaging.Expired.AtSend.Current=0
+Messaging.Received.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Received.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Received.Bytes.Header.Current=0
+Messaging.Received.Bytes.Total.Current=0
+Messaging.Received.Direction.OneWay.Current=0
+Messaging.Received.Direction.Request.Current=0
+Messaging.Received.Direction.Response.Current=0
+Messaging.Received.Messages.Total.Current=0
+Messaging.Received.MessageSizeHistogram.Bytes=
+Messaging.Rejected.Request.Current=1
+Messaging.Rerouted.OneWay.Current=0
+Messaging.Rerouted.Request.Current=0
+Messaging.Rerouted.Response.Current=0
+Messaging.Sent.BatchSize.PerSocketDirection.ClientToGateway=0.000
+Messaging.Sent.BatchSizeBytesHistogram.Bytes.PerSocketDirection.ClientToGateway=
+Messaging.Sent.Bytes.Header.Current=0
+Messaging.Sent.Bytes.Total.Current=0
+Messaging.Sent.Direction.OneWay.Current=0
+Messaging.Sent.Direction.Request.Current=0
+Messaging.Sent.Direction.Response.Current=0
+Messaging.Sent.Messages.Total.Current=0
+Messaging.Sent.MessageSizeHistogram.Bytes=
+Networking.Sockets.ClientToGateway.Duplex.Closed.Current=2
+Networking.Sockets.ClientToGateway.Duplex.Opened.Current=0
+Serialization.BufferPool.AllocatedBuffers.Current=250
+Serialization.BufferPool.BuffersInPool=218
+Serialization.BufferPool.CheckedInBuffers.Current=250
+Serialization.BufferPool.CheckedOutBuffers.Current=282
+Serialization.BufferPool.DroppedBuffers.Current=0
+Serialization.BufferPool.DroppedTooLargeBuffers.Current=0
+Serialization.BufferPool.InUse.AllocatedAndNotInPool_Buffers=32
+Serialization.BufferPool.InUse.CheckedOutAndNotCheckedIn_Buffers=32
+	
+[2018-03-28 07:15:48.485 GMT     1	INFO   	100000	OutsideRuntimeClient	192.168.2.151:0]	OutsideRuntimeClient.ConstructorReset(): client Id *cli/2ca8eca4	

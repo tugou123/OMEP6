@@ -1,0 +1,6 @@
+G:\OMEP\Base\OME.Base\OME.SqlServer\obj\Debug\OME.SqlServer.csproj.CoreCompileInputs.cache
+G:\OMEP\Base\OME.Base\OME.SqlServer\bin\Debug\OME.SqlServer.dll
+G:\OMEP\Base\OME.Base\OME.SqlServer\bin\Debug\OME.SqlServer.pdb
+G:\OMEP\Base\OME.Base\OME.SqlServer\obj\Debug\OME.SqlServer.dll
+G:\OMEP\Base\OME.Base\OME.SqlServer\obj\Debug\OME.SqlServer.pdb
+G:\OMEP\Base\OME.Base\OME.SqlServer\obj\Debug\OME.SqlServer.csprojResolveAssemblyReference.cache

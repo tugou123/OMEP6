@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OME.Host", "OME.Host\OME.Host.csproj", "{0258A748-8B51-4484-95D4-30D04DF0F726}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QME.Query", "QME.Query\QME.Query.csproj", "{546A9D49-69A9-4F3C-8874-54BFF35FE52A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0258A748-8B51-4484-95D4-30D04DF0F726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0258A748-8B51-4484-95D4-30D04DF0F726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0258A748-8B51-4484-95D4-30D04DF0F726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0258A748-8B51-4484-95D4-30D04DF0F726}.Release|Any CPU.Build.0 = Release|Any CPU
+		{546A9D49-69A9-4F3C-8874-54BFF35FE52A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{546A9D49-69A9-4F3C-8874-54BFF35FE52A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{546A9D49-69A9-4F3C-8874-54BFF35FE52A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{546A9D49-69A9-4F3C-8874-54BFF35FE52A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF3FA35F-3703-43F9-AE13-CE50CAD9F094}
+	EndGlobalSection
+EndGlobal

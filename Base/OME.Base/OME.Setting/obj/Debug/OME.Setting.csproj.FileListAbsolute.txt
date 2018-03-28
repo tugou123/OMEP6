@@ -1,0 +1,5 @@
+G:\OMEP\Base\OME.Base\OME.Setting\bin\Debug\OME.Setting.dll
+G:\OMEP\Base\OME.Base\OME.Setting\bin\Debug\OME.Setting.pdb
+G:\OMEP\Base\OME.Base\OME.Setting\obj\Debug\OME.Setting.csproj.CoreCompileInputs.cache
+G:\OMEP\Base\OME.Base\OME.Setting\obj\Debug\OME.Setting.dll
+G:\OMEP\Base\OME.Base\OME.Setting\obj\Debug\OME.Setting.pdb

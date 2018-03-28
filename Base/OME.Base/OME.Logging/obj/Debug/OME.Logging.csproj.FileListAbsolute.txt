@@ -1,0 +1,6 @@
+G:\OMEP\Base\OME.Base\OME.Logging\bin\Debug\OME.Logging.dll
+G:\OMEP\Base\OME.Base\OME.Logging\bin\Debug\OME.Logging.pdb
+G:\OMEP\Base\OME.Base\OME.Logging\obj\Debug\OME.Logging.csprojResolveAssemblyReference.cache
+G:\OMEP\Base\OME.Base\OME.Logging\obj\Debug\OME.Logging.csproj.CoreCompileInputs.cache
+G:\OMEP\Base\OME.Base\OME.Logging\obj\Debug\OME.Logging.dll
+G:\OMEP\Base\OME.Base\OME.Logging\obj\Debug\OME.Logging.pdb

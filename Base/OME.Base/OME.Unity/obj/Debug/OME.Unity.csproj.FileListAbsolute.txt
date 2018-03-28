@@ -1,0 +1,15 @@
+G:\OMEP\Base\OME.Base\OME.Unity\bin\Debug\OME.Unity.dll
+G:\OMEP\Base\OME.Base\OME.Unity\bin\Debug\OME.Unity.pdb
+G:\OMEP\Base\OME.Base\OME.Unity\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+G:\OMEP\Base\OME.Base\OME.Unity\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+G:\OMEP\Base\OME.Base\OME.Unity\bin\Debug\Microsoft.Practices.Unity.dll
+G:\OMEP\Base\OME.Base\OME.Unity\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+G:\OMEP\Base\OME.Base\OME.Unity\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+G:\OMEP\Base\OME.Base\OME.Unity\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+G:\OMEP\Base\OME.Base\OME.Unity\bin\Debug\Microsoft.Practices.Unity.xml
+G:\OMEP\Base\OME.Base\OME.Unity\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+G:\OMEP\Base\OME.Base\OME.Unity\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+G:\OMEP\Base\OME.Base\OME.Unity\obj\Debug\OME.Unity.csprojResolveAssemblyReference.cache
+G:\OMEP\Base\OME.Base\OME.Unity\obj\Debug\OME.Unity.csproj.CoreCompileInputs.cache
+G:\OMEP\Base\OME.Base\OME.Unity\obj\Debug\OME.Unity.dll
+G:\OMEP\Base\OME.Base\OME.Unity\obj\Debug\OME.Unity.pdb
